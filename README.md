@@ -1,5 +1,5 @@
 # ReadAR
-# Description
+## Description
 ReadAR is a project based on a book sharing platform. 
 The registered users can enlist their books to be shared with other members of the platform, share details of the book, share their contact info for any further communication needed for the sharing process. 
 A basic case example would be a student being not able to reach a library and it's contents, therefore needing an assistance from any willing individual who is currently member of the given library. They would be able to easily contact each other and complete their sacred mission on sharing the needed books.
