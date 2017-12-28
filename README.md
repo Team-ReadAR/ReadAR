@@ -9,7 +9,7 @@ The system works with basic listings, I add a book and it's information on the p
 ### [ReadAR Asana Project link](https://app.asana.com/0/461133111749573/461133111749573 "ReadAR")
 
 ## Team Members
-- Yuşa Sarısoy (Scrum Master)
+- Muhammed Yuşa Sarısoy (Scrum Master)
 - Atakan Beddall (Project Owner)
 - Dalım Çepiç (Developer)
 - Rahman Ünver (Developer)
