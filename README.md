@@ -1,4 +1,5 @@
 # ReadAR
+### _Term Project for "COP4461 - Netaş Agile Project Management" Course._
 ## Description
 ReadAR is a project based on a book sharing platform written with __PHP__ and __MySQL.__ 
 The registered users can enlist their books to be shared with other members of the platform, share details of the book, share their contact info for any further communication needed for the sharing process. 
@@ -10,7 +11,7 @@ The system works with basic listings, I add a book and it's information on the p
 ### [Required test cases can be found here.](https://github.com/Team-ReadAR/ReadAR/tree/master/ReadAR%20Tests "Test Cases for ReadAR")
 ### [ReadAR Asana Project link](https://app.asana.com/0/461133111749573/461133111749573 "ReadAR")
 
-## Team Members
+## Team Members (Team ReadAR)
 - Muhammed Yuşa Sarısoy (Scrum Master)
 - Atakan Beddall (Project Owner)
 - Dalım Çepiç (Developer)
